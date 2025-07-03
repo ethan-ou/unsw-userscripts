@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         moodle-unsw-faculty-tool
+// @name         Moodle UNSW Faculty Tool
 // @namespace    https://github.com/ethan-ou
 // @version      0.3.0
 // @author       Ethan Ou
